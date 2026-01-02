@@ -69,7 +69,7 @@ Clean architecture, automated testing and cost-aware infrastructure are my defau
 
 ## 📚 Certifications & Coursework
 - IBM Data Engineering Professional Certificate (in progress, Coursera)
-- B.Sc. Computer Engineering (Damascus University)
+- B.Sc. Software Engineering (Damascus University)
 
 ---
 
