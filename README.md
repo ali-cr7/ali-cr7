@@ -4,7 +4,7 @@
 📫 alily4949@gmail.com  📍 Tartous, Syria  
 
 I’m a **Mobile & Back-end Software Engineer** who turns ideas into scalable products.  
-I started with Flutter ➜ built solid REST / Laravel & Spring services ➜ and I’m currently levelling-up in **data engineering** (warehousing, ETL, modern cloud pipelines).  
+I started with Flutter ➜ built solid REST / Spring services ➜ and I’m currently levelling-up in **data engineering** (warehousing, ETL, modern cloud pipelines).  
 Clean architecture, automated testing and cost-aware infrastructure are my defaults.
 
 ---
