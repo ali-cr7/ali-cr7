@@ -82,4 +82,4 @@ Clean architecture, automated testing and cost-aware infrastructure are my defau
 
 ## ⚡ Fun Facts
 - Clean-code evangelist — `flutter analyze` has zero warnings on every commit
-- Arabic (native), English (C2), 
+- Arabic (native), English (C1), 
